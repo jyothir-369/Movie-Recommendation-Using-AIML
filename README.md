@@ -22,19 +22,16 @@ This project demonstrates how machine learning and NLP can be applied to build a
 
 ---
 
-## 📁 Project Structure
-
 Movie-Recommendation-Using-AIML/
-├── movie-recommendation-system.ipynb # Main Jupyter Notebook
-├── movie-recommendation-system.pdf # Exported Notebook as PDF
-├── README.md # Project documentation
+│
+├── movie-recommendation-system.ipynb   # Main Jupyter Notebook
+├── movie-recommendation-system.pdf     # Exported Notebook as PDF
+├── README.md                           # Project documentation
 └── datasets/
-├── movies.csv # Movie metadata
-└── credits.csv # Cast and crew data
+    ├── movies.csv                      # Movie metadata
+    └── credits.csv                     # Cast and crew data
 
-yaml
-Copy
-Edit
+
 
 ---
 
