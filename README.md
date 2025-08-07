@@ -65,11 +65,16 @@ Copy
 Edit
 git clone https://github.com/jyothir-369/Movie-Recommendation-Using-AIML.git
 cd Movie-Recommendation-Using-AIML
+
+
 2️⃣ Launch Jupyter Notebook
 bash
 Copy
 Edit
 jupyter notebook
+
+
+
 3️⃣ Run the Notebook
 Open movie-recommendation-system.ipynb and run all cells.
 
