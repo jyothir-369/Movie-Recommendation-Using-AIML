@@ -1,3 +1,5 @@
+# 🎬 Movie Recommendation System using AI/ML
+
 
 
 A practical **content-based movie recommender** built with Python, Pandas, and Scikit-learn. This system suggests movies similar to a given input based on genres, cast, crew, keywords, and overview — perfect for learners exploring **NLP** and **recommendation engines**.
