@@ -1,6 +1,7 @@
 name: Movie-Recommendation-Using-AIML
 description: 🎬 A simple yet powerful content-based movie recommender system using Python, Pandas, and Scikit-learn. Ideal for beginners exploring NLP and Recommender Systems.
 homepage: https://github.com/jyothir-369/Movie-Recommendation-Using-AIML
+
 topics:
   - python
   - machine-learning
@@ -13,6 +14,7 @@ topics:
   - beginner-project
   - data-science
   - jupyter-notebook
+
 releases: true
 packages: true
 deployments: false
@@ -47,7 +49,7 @@ libraries_used:
   - numpy
   - scikit-learn
   - ast
-  - nltk (optional for advanced NLP preprocessing)
+  - nltk # optional for advanced NLP preprocessing
 
 getting_started:
   prerequisites:
